@@ -1,10 +1,10 @@
 **Azure Networking Concepts**
 
-Azure Virtual Network
-Subnets
-Network Security Group
-Public IPs
-Private IPs
-VNET Peering
-Hub and Spoke Model
-VNET Gateway
+1. Azure Virtual Network
+2. Subnets
+3. Network Security Group
+4. Public IPs
+5. Private IPs
+6. VNET Peering
+7. Hub and Spoke Model
+8. VNET Gateway
